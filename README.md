@@ -1,6 +1,6 @@
 # Gerastosthenes Slave
 
-![image](https://github.com/germaneagle0/Gerastosthenes-Slave/assets/59073055/f44c06ab-6561-4c30-b74d-b17d6645cc25)
+![image](https://github.com/germaneagle0/Gerastosthenes-Slave/assets/59073055/3f2c02ee-c423-47fa-a262-e02703257b95)
 
 Para rodar, primeiro inicie o servidor
 ```console
